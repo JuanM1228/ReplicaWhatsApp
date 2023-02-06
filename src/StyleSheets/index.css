@@ -1,0 +1,18 @@
+@import "./MainChat/MainChat.css";
+@import "./Chats/HeaderChat.css";
+@import "classes.css";
+@import "./Chats/Chats.css";
+
+
+body {
+  background-color: rgb(93, 176, 176);
+  padding: 0;
+  margin: 0;
+}
+
+#root {
+
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+}
