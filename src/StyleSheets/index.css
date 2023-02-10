@@ -3,6 +3,9 @@
 @import "classes.css";
 @import "./Chats/Chats.css";
 
+* {
+  box-sizing: border-box;
+}
 
 body {
   background-color: rgb(93, 176, 176);
